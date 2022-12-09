@@ -1,2 +1,3 @@
 # STRavinsky
-STRavinsky: Short-Tandem-Repeat Database for Preimplantation-Genetic-Testing and Forensics Utilizing the CHM13-T2T Genome
+STRavinsky – Complete Map of Human Short-Tandem-Repeats Based on T2T and Its Applications for Basic Science and Accurate Preimplantation-Genetic-Testing Planning
+
